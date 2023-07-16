@@ -1,1 +1,4 @@
 # tropico
+bolshe
+vishe
+zachem
